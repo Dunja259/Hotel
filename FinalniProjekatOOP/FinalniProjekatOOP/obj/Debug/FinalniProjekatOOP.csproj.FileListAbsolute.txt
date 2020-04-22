@@ -1,0 +1,9 @@
+C:\Users\Dunja\source\repos\FinalniProjekatOOP\FinalniProjekatOOP\bin\Debug\FinalniProjekatOOP.exe.config
+C:\Users\Dunja\source\repos\FinalniProjekatOOP\FinalniProjekatOOP\bin\Debug\FinalniProjekatOOP.exe
+C:\Users\Dunja\source\repos\FinalniProjekatOOP\FinalniProjekatOOP\bin\Debug\FinalniProjekatOOP.pdb
+C:\Users\Dunja\source\repos\FinalniProjekatOOP\FinalniProjekatOOP\obj\Debug\FinalniProjekatOOP.csprojAssemblyReference.cache
+C:\Users\Dunja\source\repos\FinalniProjekatOOP\FinalniProjekatOOP\obj\Debug\FinalniProjekatOOP.Properties.Resources.resources
+C:\Users\Dunja\source\repos\FinalniProjekatOOP\FinalniProjekatOOP\obj\Debug\FinalniProjekatOOP.csproj.GenerateResource.cache
+C:\Users\Dunja\source\repos\FinalniProjekatOOP\FinalniProjekatOOP\obj\Debug\FinalniProjekatOOP.exe
+C:\Users\Dunja\source\repos\FinalniProjekatOOP\FinalniProjekatOOP\obj\Debug\FinalniProjekatOOP.pdb
+C:\Users\Dunja\source\repos\FinalniProjekatOOP\FinalniProjekatOOP\obj\Debug\FinalniProjekatOOP.Rezervacija.resources
