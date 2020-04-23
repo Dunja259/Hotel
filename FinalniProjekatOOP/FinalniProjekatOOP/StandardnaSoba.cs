@@ -20,7 +20,7 @@ namespace FinalniProjekatOOP
 
         public StandardnaSoba()
         {
-            cena = 5.000;
+            cena = 5000;
             sadrzaj = "Televizod, Klima uredjaj, Besplatan wi-fi";
             brKreveta = 2;
         }
