@@ -11,7 +11,7 @@ namespace FinalniProjekatOOP
     {
         public PremiumSoba()
         {
-            cena = 10.000;
+            cena = 10000;
             sadrzaj = " LCD Televizod, Kablovska, Klima uredjaj, Besplatan wi-fi, Mini bar, Radni sto";
             brKreveta = 2;
         }
